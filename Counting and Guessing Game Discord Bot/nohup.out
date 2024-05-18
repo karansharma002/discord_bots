@@ -1,0 +1,1059 @@
+Connecting...
+Connected Guess The Number#4926
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `cancel`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 110, in cancel
+    await ctx.send(embed=embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/context.py", line 256, in send
+    await self._http.post_initial_response(json_data, self.interaction_id, self._token)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 42, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 82, in on_message
+    else:
+  File "/usr/lib64/python3.7/json/__init__.py", line 296, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib64/python3.7/json/__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.7/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.7/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Connecting...
+Connected Guess The Number#4926
+An exception has occurred while executing command `count`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 103, in count
+    await channel.send(embed=embed)
+AttributeError: 'VoiceChannel' object has no attribute 'send'
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 59, in guess
+    await channel.send(embed=embed)
+AttributeError: 'CategoryChannel' object has no attribute 'send'
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 42, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 42, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 42, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 35, in on_ready
+    stauts_task.start()
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `count`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 112, in count
+    await ctx.send(embed=embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/context.py", line 256, in send
+    await self._http.post_initial_response(json_data, self.interaction_id, self._token)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `help`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/help.py", line 33, in help
+    for x in await discord_slash.utils.manage_commands.get_all_commands(self.bot.user.id, TOKEN):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/utils/manage_commands.py", line 91, in get_all_commands
+    raise RequestFailure(resp.status, await resp.text())
+discord_slash.error.RequestFailure: Request failed with resp: 401 | {"message": "401: Unauthorized", "code": 0}
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 200, in invoke
+    can_run = await self.can_run(args[0])
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in can_run
+    for x in self.__commands_checks__
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 293, in <listcomp>
+    for x in self.__commands_checks__
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1790, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+Connecting...
+Connected Guess The Number#4926
+Connecting...
+Connected Guess The Number#4926
+Connecting...
+Connected Guess The Number#4926
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 58, in guess
+    await channel.send(embed=embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/dpy_overrides.py", line 323, in send_override
+    return await send(channel, *args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/dpy_overrides.py", line 308, in send
+    message_reference=reference,
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50001): Missing Access
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 67, in on_message
+    counts.pop(count)
+TypeError: 'dict' object cannot be interpreted as an integer
+Connecting...
+Connected Guess The Number#4926
+1
+2
+3
+1
+2
+3
+3
+2
+2
+3
+3
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "main.py", line 58, in on_message
+    int_message = int(message.content)
+ValueError: invalid literal for int() with base 10: 'Try now'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 79, in on_message
+    await message.delete()
+  File "/usr/local/lib/python3.7/site-packages/discord/message.py", line 1023, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+An exception has occurred while executing command `guess`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 58, in guess
+    await channel.send(embed=embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/dpy_overrides.py", line 323, in send_override
+    return await send(channel, *args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/dpy_overrides.py", line 308, in send
+    message_reference=reference,
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 67, in on_message
+    counts.pop(count)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 67, in on_message
+    counts.pop(count)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+An exception has occurred while executing command `cancel`:
+Traceback (most recent call last):
+  File "/home/ec2-user/Cog/main_commands.py", line 148, in cancel
+    msg = await ctx.send(embed = embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/context.py", line 256, in send
+    await self._http.post_initial_response(json_data, self.interaction_id, self._token)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 154, in cancel
+    await ctx.send(embed=embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/context.py", line 256, in send
+    await self._http.post_initial_response(json_data, self.interaction_id, self._token)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.pop(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "main.py", line 58, in on_message
+    int_message = int(message.content)
+ValueError: invalid literal for int() with base 10: '/c2'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 79, in on_message
+    await message.delete()
+  File "/usr/local/lib/python3.7/site-packages/discord/message.py", line 1023, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 67, in on_message
+    counts.pop(count)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 67, in on_message
+    counts.pop(count)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 67, in on_message
+    counts.pop(count)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 67, in on_message
+    counts.pop(count)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 67, in on_message
+    counts.pop(count)
+TypeError: 'dict' object cannot be interpreted as an integer
+An exception has occurred while executing command `cancel`:
+Traceback (most recent call last):
+  File "/home/ec2-user/Cog/main_commands.py", line 148, in cancel
+    msg = await ctx.send(embed = embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/context.py", line 256, in send
+    await self._http.post_initial_response(json_data, self.interaction_id, self._token)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 154, in cancel
+    await ctx.send(embed=embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/context.py", line 256, in send
+    await self._http.post_initial_response(json_data, self.interaction_id, self._token)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+An exception has occurred while executing command `cancel`:
+Traceback (most recent call last):
+  File "/home/ec2-user/Cog/main_commands.py", line 148, in cancel
+    msg = await ctx.send(embed = embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/context.py", line 256, in send
+    await self._http.post_initial_response(json_data, self.interaction_id, self._token)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 154, in cancel
+    await ctx.send(embed=embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/context.py", line 256, in send
+    await self._http.post_initial_response(json_data, self.interaction_id, self._token)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.remove(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.remove(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.remove(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.remove(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 110, in on_message
+    guesses.remove(guess)
+TypeError: 'dict' object cannot be interpreted as an integer
+Connecting...
+Connected Guess The Number#4926
+1
+2
+3
+4
+5
+2
+3
+4
+5
+5
+5
+2
+3
+4
+5
+5
+5
+5
+5
+5
+5
+1
+5
+2
+3
+4
+2
+3
+4
+5
+5
+5
+5
+5
+5
+5
+5
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "main.py", line 58, in on_message
+    int_message = int(message.content)
+ValueError: invalid literal for int() with base 10: 'a'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "main.py", line 79, in on_message
+    await message.delete()
+  File "/usr/local/lib/python3.7/site-packages/discord/message.py", line 1023, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+An exception has occurred while executing command `cancel`:
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/client.py", line 1353, in invoke_command
+    await func.invoke(ctx, **args)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/model.py", line 209, in invoke
+    return await self.func(self.cog, *args, **kwargs)
+  File "/home/ec2-user/Cog/main_commands.py", line 141, in cancel
+    await ctx.send(embed=embed)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/discord_slash/context.py", line 256, in send
+    await self._http.post_initial_response(json_data, self.interaction_id, self._token)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 250, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction

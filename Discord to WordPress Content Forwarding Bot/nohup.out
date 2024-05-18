@@ -1,0 +1,1390 @@
+----------- BOT HAS STARTED --------------
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+----------- BOT HAS STARTED --------------
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+----------- BOT HAS STARTED --------------
+----------- BOT HAS STARTED --------------
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+----------- BOT HAS STARTED --------------
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "?" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lbu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 15, in on_ready
+    update_post.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 15, in on_ready
+    update_post.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 15, in on_ready
+    update_post.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Unhandled exception in internal background task 'update_post'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 20, in update_post
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Unhandled exception in internal background task 'update_post'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 20, in update_post
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Unhandled exception in internal background task 'update_post'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 20, in update_post
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Ignoring exception in on_message
+Ignoring exception in on_message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 67, in on_message
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+Unhandled exception in internal background task 'update_post'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 20, in update_post
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+----------- BOT HAS STARTED --------------
+Task exception was never retrieved
+future: <Task finished name='Task-15' coro=<Loop._loop() done, defined at /usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py:88> exception=JSONDecodeError('Extra data: line 7 column 3 (char 278)')>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 125, in _loop
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "/home/ec2-user/Discord_Wordpress/WP.py", line 20, in update_post
+    config = json.load(f)
+  File "/usr/lib64/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib64/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 7 column 3 (char 278)
+----------- BOT HAS STARTED --------------
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blue" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "?" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "BLU" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!!!!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!!!!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "biu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu#" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setuphelp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "configure" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "export" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lstar" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "BLU" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "blu" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addchannel" is not found

@@ -1,0 +1,441 @@
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "invite" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "invite" is not found
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<fetch() done, defined at Invites.py:19> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "Invites.py", line 25, in fetch
+    invs = await guild.invites()
+  File "/usr/local/lib/python3.8/dist-packages/discord/guild.py", line 1625, in invites
+    data = await self._state.http.invites_from(self.id)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tictac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tictac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "tic_tac" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+ready!
+ready!
+ready!
+ready!
+ready!
+ready!
+ready!
+ready!
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<fetch() done, defined at Invites.py:19> exception=ClientOSError(104, 'Connection reset by peer')>
+Traceback (most recent call last):
+  File "Invites.py", line 25, in fetch
+    invs = await guild.invites()
+  File "/usr/local/lib/python3.8/dist-packages/discord/guild.py", line 1625, in invites
+    data = await self._state.http.invites_from(self.id)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 544, in _request
+    await resp.start(conn)
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client_reqrep.py", line 890, in start
+    message, payload = await self._protocol.read()  # type: ignore
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/streams.py", line 604, in read
+    await self._waiter
+aiohttp.client_exceptions.ClientOSError: [Errno 104] Connection reset by peer
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<fetch() done, defined at Invites.py:19> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "Invites.py", line 25, in fetch
+    invs = await guild.invites()
+  File "/usr/local/lib/python3.8/dist-packages/discord/guild.py", line 1625, in invites
+    data = await self._state.http.invites_from(self.id)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+ready!
+ready!
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<fetch() done, defined at Invites.py:19> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "Invites.py", line 25, in fetch
+    invs = await guild.invites()
+  File "/usr/local/lib/python3.8/dist-packages/discord/guild.py", line 1625, in invites
+    data = await self._state.http.invites_from(self.id)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+ready!
+
+ready!
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "addbeca" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "target" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "target" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "target" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "subscribe" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "rolemention" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "changemention" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "changemention" is not found
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<fetch() done, defined at Invites.py:19> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "Invites.py", line 25, in fetch
+    invs = await guild.invites()
+  File "/usr/local/lib/python3.8/dist-packages/discord/guild.py", line 1625, in invites
+    data = await self._state.http.invites_from(self.id)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Task exception was never retrieved
+future: <Task finished name='Task-35376' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 305, in from_client
+    gateway = gateway or await client.http.get_gateway()
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 967, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+ready!
+ready!
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<fetch() done, defined at Invites.py:19> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "Invites.py", line 25, in fetch
+    invs = await guild.invites()
+  File "/usr/local/lib/python3.8/dist-packages/discord/guild.py", line 1625, in invites
+    data = await self._state.http.invites_from(self.id)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "target" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "subscribe" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "subscribe" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "changemention" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "changemention" is not found
+ready!
+ready!
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "beca" is not found
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<fetch() done, defined at Invites.py:19> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "Invites.py", line 25, in fetch
+    invs = await guild.invites()
+  File "/usr/local/lib/python3.8/dist-packages/discord/guild.py", line 1625, in invites
+    data = await self._state.http.invites_from(self.id)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Task exception was never retrieved
+future: <Task finished name='Task-155320' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 305, in from_client
+    gateway = gateway or await client.http.get_gateway()
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 967, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+ready!
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<fetch() done, defined at Invites.py:19> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "Invites.py", line 25, in fetch
+    invs = await guild.invites()
+  File "/usr/local/lib/python3.8/dist-packages/discord/guild.py", line 1625, in invites
+    data = await self._state.http.invites_from(self.id)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Task exception was never retrieved
+future: <Task finished name='Task-200594' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 306, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 132, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 754, in _ws_connect
+    resp = await self.request(
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Task exception was never retrieved
+future: <Task finished name='Task-200598' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 305, in from_client
+    gateway = gateway or await client.http.get_gateway()
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 967, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Task exception was never retrieved
+future: <Task finished name='Task-200600' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 305, in from_client
+    gateway = gateway or await client.http.get_gateway()
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 967, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Task exception was never retrieved
+future: <Task finished name='Task-200602' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 305, in from_client
+    gateway = gateway or await client.http.get_gateway()
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 967, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Task exception was never retrieved
+future: <Task finished name='Task-200604' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 305, in from_client
+    gateway = gateway or await client.http.get_gateway()
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 967, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+ready!
+
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<fetch() done, defined at Invites.py:19> exception=DiscordServerError('503 Service Unavailable (error code: 0): upstream connect error or disconnect/reset before headers. reset reason: connection termination')>
+Traceback (most recent call last):
+  File "Invites.py", line 25, in fetch
+    invs = await guild.invites()
+  File "/usr/local/lib/python3.8/dist-packages/discord/guild.py", line 1625, in invites
+    data = await self._state.http.invites_from(self.id)
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 252, in request
+    raise DiscordServerError(r, data)
+discord.errors.DiscordServerError: 503 Service Unavailable (error code: 0): upstream connect error or disconnect/reset before headers. reset reason: connection termination
+Task exception was never retrieved
+future: <Task finished name='Task-21979' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 305, in from_client
+    gateway = gateway or await client.http.get_gateway()
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 967, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Task exception was never retrieved
+future: <Task finished name='Task-21981' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 305, in from_client
+    gateway = gateway or await client.http.get_gateway()
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 967, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+Task exception was never retrieved
+future: <Task finished name='Task-21983' coro=<DiscordWebSocket.from_client() done, defined at /usr/local/lib/python3.8/dist-packages/discord/gateway.py:299> exception=TimeoutError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/gateway.py", line 305, in from_client
+    gateway = gateway or await client.http.get_gateway()
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 967, in get_gateway
+    data = await self.request(Route('GET', '/gateway'))
+  File "/usr/local/lib/python3.8/dist-packages/discord/http.py", line 192, in request
+    async with self.__session.request(method, url, **kwargs) as r:
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 1117, in __aenter__
+    self._resp = await self._coro
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/client.py", line 619, in _request
+    break
+  File "/usr/local/lib/python3.8/dist-packages/aiohttp/helpers.py", line 656, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+ready!

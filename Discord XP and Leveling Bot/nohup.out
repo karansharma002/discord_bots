@@ -1,0 +1,1004 @@
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 174, in on_message
+    if config['Text'][cn]['Cooldown'].lower() == 'once':
+AttributeError: 'int' object has no attribute 'lower'
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 174, in on_message
+    if config['Text'][cn]['Cooldown'].lower() == 'once':
+AttributeError: 'int' object has no attribute 'lower'
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 174, in on_message
+    if config['Text'][cn]['Cooldown'].lower() == 'once':
+AttributeError: 'int' object has no attribute 'lower'
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 174, in on_message
+    if str(config['Text'][cn]['Cooldown']).lower() == 'once' or config['Text']['Cooldown'] == 0:
+AttributeError: 'int' object has no attribute 'lower'
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 174, in on_message
+    print(config['Text'][cn])
+AttributeError: 'int' object has no attribute 'lower'
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 174, in on_message
+    print(config['Text'][cn])
+AttributeError: 'int' object has no attribute 'lower'
+-- XP BOT HAS STARTED --
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 162, in on_message
+    cn = message.channel.name
+AttributeError: 'DMChannel' object has no attribute 'name'
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/ec2-user/XP_BOT/XP.py", line 26, in on_ready
+    voice_xp.start()
+  File "/usr/local/lib/python3.9/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+-- XP BOT HAS STARTED --
+Traceback (most recent call last):
+  File "XP.py", line 7, in <module>
+    from discord_slash.utils.manage_components import create_actionrow
+ModuleNotFoundError: No module named 'discord_slash'
+Traceback (most recent call last):
+  File "XP.py", line 7, in <module>
+    from discord_slash.utils.manage_components import create_actionrow
+ModuleNotFoundError: No module named 'discord_slash'

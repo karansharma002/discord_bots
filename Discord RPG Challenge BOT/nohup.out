@@ -1,0 +1,864 @@
+Traceback (most recent call last):
+  File "RPG.py", line 344, in rank
+    im = Image.open('Images/Unranked.jpg').convert("RGBA")
+  File "/usr/local/lib64/python3.7/site-packages/PIL/Image.py", line 2975, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'Images/Unranked.jpg'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "300" is not found
+Traceback (most recent call last):
+  File "RPG.py", line 344, in rank
+    im = Image.open('Images/Unranked.jpg').convert("RGBA")
+  File "/usr/local/lib64/python3.7/site-packages/PIL/Image.py", line 2975, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'Images/Unranked.jpg'
+Traceback (most recent call last):
+  File "RPG.py", line 344, in rank
+    im = Image.open('Images/Unranked.jpg').convert("RGBA")
+  File "/usr/local/lib64/python3.7/site-packages/PIL/Image.py", line 2975, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'Images/Unranked.jpg'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "73.50" is not found
+Traceback (most recent call last):
+  File "RPG.py", line 381, in rank
+    im = Image.open(return_pic(user)[1]).convert("RGBA")
+  File "/usr/local/lib64/python3.7/site-packages/PIL/Image.py", line 2975, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'Images/100000.png'
+Traceback (most recent call last):
+  File "RPG.py", line 344, in rank
+    im = Image.open('Images/Unranked.jpg').convert("RGBA")
+  File "/usr/local/lib64/python3.7/site-packages/PIL/Image.py", line 2975, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'Images/Unranked.jpg'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cancelconfirm" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "confirm" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cancelconfrim" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cancelconfirm" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "clearqueueconfirm" is not found
+Traceback (most recent call last):
+  File "RPG.py", line 381, in rank
+    im = Image.open(return_pic(user)[1]).convert("RGBA")
+  File "/usr/local/lib64/python3.7/site-packages/PIL/Image.py", line 2975, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'Images/100000.png'
+Traceback (most recent call last):
+  File "RPG.py", line 344, in rank
+    im = Image.open('Images/Unranked.jpg').convert("RGBA")
+  File "/usr/local/lib64/python3.7/site-packages/PIL/Image.py", line 2975, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'Images/Unranked.jpg'
+----------- == SERVER HAS STARTED == -------------
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+90.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4500]
+90.0
+90.0
+4500
+90.0
+90.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4500]
+90.0
+90.0
+4500
+90.0
+87.8
+100000
+['Images/70.png', 'Images/100000.png', 'others', 125000, 100000]
+87.8
+100000
+87.8
+100000
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+[]
+['259557057097629697']
+87.8
+100000
+['Images/70.png', 'Images/100000.png', 'others', 125000, 100000]
+87.8
+100000
+87.8
+100000
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cancelconfirm" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cancelconfirm" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "5" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "kidabrams215" is not found
+----------- == SERVER HAS STARTED == -------------
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+77.5
+10000
+['Images/70.png', 'Images/10000.png', 'red', 20000, 10000]
+77.5
+10000
+77.5
+10000
+10000
+77.5
+10000
+77.5
+10000
+77.5
+10000
+77.5
+10000
+[]
+['259557057097629697']
+96.16666666666667
+20000
+['Images/100.PNG', 'Images/20000.png', 'red', 30000, 20000]
+96.16666666666667
+20000
+96.16666666666667
+20000
+20000
+96.16666666666667
+20000
+96.16666666666667
+20000
+96.16666666666667
+20000
+96.16666666666667
+20000
+90.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4500]
+90.0
+90.0
+4500
+90.0
+90.0
+90.0
+87.8
+100000
+['Images/70.png', 'Images/100000.png', 'others', 125000, 100000]
+87.8
+100000
+87.8
+100000
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+87.8
+100000
+96.16666666666667
+20000
+['Images/100.PNG', 'Images/20000.png', 'red', 30000, 20000]
+96.16666666666667
+20000
+96.16666666666667
+20000
+20000
+96.16666666666667
+20000
+96.16666666666667
+20000
+96.16666666666667
+20000
+96.16666666666667
+20000
+90.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4500]
+90.0
+90.0
+4500
+90.0
+90.0
+90.0
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "150" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "7" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "BankaiHisoka" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "challange" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "Challenge" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "accept" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "accept" is not found
+Ignoring exception in command select_winner:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "RPG.py", line 494, in select_winner
+    confirmed.remove(str(author.id))
+ValueError: list.remove(x): x not in list
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: list.remove(x): x not in list
+Ignoring exception in command select_winner:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "RPG.py", line 465, in select_winner
+    confirmed.remove(str(user.id))
+ValueError: list.remove(x): x not in list
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: list.remove(x): x not in list
+Ignoring exception in command select_winner:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "RPG.py", line 494, in select_winner
+    confirmed.remove(str(author.id))
+ValueError: list.remove(x): x not in list
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: list.remove(x): x not in list
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "challenage" is not found
+Ignoring exception in command challenge:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 855, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 789, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 552, in transform
+    return await self.do_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 505, in do_conversion
+    return await self._actual_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 451, in _actual_conversion
+    ret = await instance.convert(ctx, argument)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/converter.py", line 254, in convert
+    raise UserNotFound(argument)
+discord.ext.commands.errors.UserNotFound: User "@Super" not found.
+Ignoring exception in command challenge:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 855, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 789, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 552, in transform
+    return await self.do_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 505, in do_conversion
+    return await self._actual_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 451, in _actual_conversion
+    ret = await instance.convert(ctx, argument)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/converter.py", line 254, in convert
+    raise UserNotFound(argument)
+discord.ext.commands.errors.UserNotFound: User "@Super" not found.
+Ignoring exception in command select_winner:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "RPG.py", line 464, in select_winner
+    confirmed.remove(str(author.id))
+ValueError: list.remove(x): x not in list
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: list.remove(x): x not in list
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "learerboard" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "learerboard" is not found
+----------- == SERVER HAS STARTED == -------------
+90.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4500]
+90.0
+90.0
+4500
+90.0
+90.0
+90.0
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+[]
+['564502723433725962']
+[]
+0
+109750
+100000 5000
+['564502723433725962']
+['564502723433725962', '801654527371509791']
+[]
+0
+0
+5000 5000
+['564502723433725962', '795793020209332274']
+['564502723433725962', '795793020209332274']
+['564502723433725962', '795793020209332274']
+['564502723433725962', '795793020209332274', '464228162163965952']
+['564502723433725962', '795793020209332274', '464228162163965952', '380951789496958976', '801654527371509791']
+['564502723433725962', '795793020209332274']
+['564502723433725962', '795793020209332274']
+['564502723433725962', '795793020209332274']
+0
+0
+5000 5000
+['564502723433725962', '795793020209332274', '464228162163965952', '801654527371509791', '776494697614671903', '660967866052640769', '380951789496958976', '482681543492501515']
+['464228162163965952', '482681543492501515']
+['464228162163965952', '482681543492501515']
+0
+113250
+5000 100000
+['464228162163965952', '482681543492501515']
+0
+4500
+5000 5000
+['464228162163965952', '801654527371509791', '776494697614671903', '660967866052640769', '380951789496958976', '482681543492501515', '564502723433725962']
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+93.4
+100000
+['Images/70.png', 'Images/100000.png', 'others', 125000, 100000]
+93.4
+100000
+93.4
+100000
+100000
+93.4
+100000
+93.4
+100000
+93.4
+100000
+93.4
+100000
+93.4
+100000
+93.4
+100000
+93.4
+100000
+['464228162163965952', '660967866052640769', '380951789496958976', '482681543492501515', '564502723433725962']
+70.0
+10000
+['Images/50.png', 'Images/10000.png', 'red', 20000, 10000]
+70.0
+10000
+70.0
+10000
+10000
+70.0
+10000
+70.0
+10000
+70.0
+10000
+70.0
+10000
+['464228162163965952', '482681543492501515', '564502723433725962', '776494697614671903', '380951789496958976']
+['464228162163965952', '564502723433725962', '776494697614671903', '380951789496958976']
+{'564502723433725962': '776494697614671903', '776494697614671903': '538520487337394186', '380951789496958976': '538520487337394186'}
+['564502723433725962', '776494697614671903', '380951789496958976']
+{'564502723433725962': '776494697614671903', '776494697614671903': '538520487337394186', '380951789496958976': '538520487337394186'}
+['564502723433725962']
+['564502723433725962']
+0
+0
+5000 5000
+['564502723433725962', '776494697614671903', '380951789496958976', '482681543492501515', '801654527371509791', '811357681452711976']
+['776494697614671903', '380951789496958976', '482681543492501515', '801654527371509791', '811357681452711976']
+{'776494697614671903': '538520487337394186', '380951789496958976': '538520487337394186', '482681543492501515': '776494697614671903', '801654527371509791': '811357681452711976'}
+['380951789496958976', '482681543492501515', '801654527371509791', '811357681452711976']
+{'776494697614671903': '538520487337394186', '380951789496958976': '538520487337394186', '482681543492501515': '776494697614671903', '801654527371509791': '811357681452711976'}
+['380951789496958976', '482681543492501515', '801654527371509791', '811357681452711976']
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+['380951789496958976', '482681543492501515', '801654527371509791', '811357681452711976']
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+70.0
+10000
+['Images/50.png', 'Images/10000.png', 'red', 20000, 10000]
+70.0
+10000
+70.0
+10000
+10000
+70.0
+10000
+70.0
+10000
+70.0
+10000
+70.0
+10000
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+96.2
+100000
+['Images/100.PNG', 'Images/100000.png', 'others', 125000, 100000]
+96.2
+100000
+96.2
+100000
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+70.0
+10000
+['Images/50.png', 'Images/10000.png', 'red', 20000, 10000]
+70.0
+10000
+70.0
+10000
+10000
+70.0
+10000
+70.0
+10000
+70.0
+10000
+70.0
+10000
+96.2
+100000
+['Images/100.PNG', 'Images/100000.png', 'others', 125000, 100000]
+96.2
+100000
+96.2
+100000
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+----------- == SERVER HAS STARTED == -------------
+----------- == SERVER HAS STARTED == -------------
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "learerboard" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "10" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "40" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "30…." is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "50" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "50" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "1.00" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "5" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "leaxweboaed" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "leaxweboaed" is not found
+----------- == SERVER HAS STARTED == -------------
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+96.2
+100000
+['Images/100.PNG', 'Images/100000.png', 'others', 125000, 100000]
+96.2
+100000
+96.2
+100000
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+79.5
+20000
+['Images/70.png', 'Images/20000.png', 'red', 30000, 20000]
+79.5
+20000
+79.5
+20000
+20000
+79.5
+20000
+79.5
+20000
+79.5
+20000
+79.5
+20000
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+96.2
+100000
+['Images/100.PNG', 'Images/100000.png', 'others', 125000, 100000]
+96.2
+100000
+96.2
+100000
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+96.2
+100000
+['Images/100.PNG', 'Images/100000.png', 'others', 125000, 100000]
+96.2
+100000
+96.2
+100000
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+96.2
+100000
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+59.375
+10000
+['Images/50.png', 'Images/10000.png', 'red', 20000, 10000]
+59.375
+10000
+59.375
+10000
+10000
+59.375
+10000
+59.375
+10000
+59.375
+10000
+59.375
+10000
+80.0
+['Images/70.png', 'Images/5000.png', 'red', 5000, 4000]
+80.0
+80.0
+4000
+80.0
+80.0
+80.0
+59.375
+10000
+['Images/50.png', 'Images/10000.png', 'red', 20000, 10000]
+59.375
+10000
+59.375
+10000
+10000
+59.375
+10000
+59.375
+10000
+59.375
+10000
+59.375
+10000
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
+0.0
+['Images/10.png', 'Images/5000.png', 'red', 5000, 0]
+0.0
+0.0
+0
+0.0
+0.0
+0.0
